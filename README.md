@@ -4,6 +4,35 @@
 </p>
 
 
+### 🔴Mes stats GitHub
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nuxhi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuxhi&show_icons=true&hide_border=true&theme=radical">
+
+
+<a href="https://github.com/Nuxhi/waveshield">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuxhi&repo=waveshield&theme=dark" />
+</a>
+
+</br></br></br></br></br></br></br></br></br>
+
+---
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+WaveShield, everytime, everywhere
+```
+<!--END_SECTION:waka-->
+
+<br>
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
+
+
 <!--
 **Nuxhi/Nuxhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
