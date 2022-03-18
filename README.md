@@ -7,8 +7,9 @@
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nuxhi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 
+  <!--
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuxhi&show_icons=true&hide_border=true&theme=radical">
-
+  --!>
 
 <a href="https://github.com/Nuxhi/nuxhi">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuxhi&repo=Nuxhi&theme=dark" />
