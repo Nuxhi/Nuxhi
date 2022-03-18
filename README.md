@@ -1,18 +1,12 @@
 ### Hi there 👋, Bienvenu chez moi 
+<p>
+  <h1 align="center"><b>Hello there, I'm Nuxhi 👋</b></h1>
+</p>
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nuxhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Nuxhii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amd.svg' alt='amd' height='40'>](0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](0)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuxhi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuxhi&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nuxhi)  
-
-![GitHub metrics](https://metrics.lecoq.io/Nuxhi)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nuxhi)  
+![GitHub](https://komarev.com/ghpvc/?username=AYZNN&style=plastic)
+[![YouTube](https://img.shields.io/youtube/channel/views/UC1bAKyFoshu_MoJNv4dLXHQ?label=youtube&style=plastic)](https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ)
+[![Discord](https://dcbadge.vercel.app/api/shield/746079627751063644?style=plastic&logoColor=presence&theme=clean)](https://discord.com/users/746079627751063644)
+<br>
 
 
 <!--
