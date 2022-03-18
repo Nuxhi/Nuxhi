@@ -21,10 +21,11 @@
 
 ---
 📊 **my secret repository :**
-- KozoD
-- KozoFY
-- WebScraping
-
+<!--START_SECTION:waka-->
+```text
+KozoD, KozoFy, WebScraper 
+```
+<!--END_SECTION:waka-->
 
 <!--
 **Nuxhi/Nuxhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
