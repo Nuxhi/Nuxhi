@@ -1,4 +1,3 @@
-### Hi there 👋, Bienvenu chez moi 
 <p>
   <h1 align="center"><b>Hello there, I'm Nuxhi 👋</b></h1>
 </p>
