@@ -26,7 +26,9 @@ KozoD, KozoFy, WebScraper
 <!--END_SECTION:waka-->
 
 ---
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nuxhi) 
+<br><br>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nuxhi)  
+
 
 
 <!--
