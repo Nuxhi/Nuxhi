@@ -11,13 +11,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuxhi&show_icons=true&hide_border=true&theme=radical">
   --!>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/Nuxhi/nuxhi">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuxhi&repo=Nuxhi&theme=dark" />
 </a>
 
-</br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br>
 
 ---
 📊 **my secret repository :**
