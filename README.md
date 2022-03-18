@@ -15,7 +15,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nuxhi&repo=Nuxhi&theme=dark" />
 </a>
 
-</br></br></br></br></br></br>
+</br></br>
 
 ---
 📊 **my secret repository :**
