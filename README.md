@@ -3,11 +3,6 @@
   <h1 align="center"><b>Hello there, I'm Nuxhi 👋</b></h1>
 </p>
 
-![GitHub](https://komarev.com/ghpvc/?username=AYZNN&style=plastic)
-[![YouTube](https://img.shields.io/youtube/channel/views/UC1bAKyFoshu_MoJNv4dLXHQ?label=youtube&style=plastic)](https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ)
-[![Discord](https://dcbadge.vercel.app/api/shield/746079627751063644?style=plastic&logoColor=presence&theme=clean)](https://discord.com/users/746079627751063644)
-<br>
-
 
 <!--
 **Nuxhi/Nuxhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
