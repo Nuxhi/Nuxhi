@@ -17,7 +17,10 @@
 </br></br></br></br></br></br></br></br></br>
 
 ---
-📊 **This week I spent my time on**
+📊 **my secret repository :**
+- KozoD
+- KozoFY
+- WebScraping
 
 
 <!--
