@@ -13,7 +13,7 @@
 📊 **my secret repository :**
 <!--START_SECTION:waka-->
 ```text
-Tuna Updateur, NTool, KozoD, KozoFy, WebScraper 
+Tuna, NTool, KozoD, KozoFy, WebScraper 
 ```
 <!--END_SECTION:waka-->
 
